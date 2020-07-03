@@ -15,7 +15,7 @@ Esse repositório é dedicado às aulas e desafios realizados durante o bootcamp
 
 # Desafio 03: Conceitos do ReactJS
 
-Nesse desafio, será criada uma aplicação no __ReactJS__ para treinar o que foi aprendido no módulo de Conceitos do ReactJS integrando com o Back-end do [Desafio 02](https://github.com/tmegumi/desafio-conceitos-nodejs)!
+Nesse desafio, será criada uma aplicação no __ReactJS__ para treinar o que foi aprendido no módulo de Conceitos do ReactJS integrando com o Back-end do [Desafio 02](https://github.com/tmegumi/gostack-desafio-conceitos-nodejs)!
 
 Essa será uma aplicação para listar, adicionar e remover os repositórios da API do backend.
 
